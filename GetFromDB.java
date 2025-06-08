@@ -5,7 +5,7 @@ public class GetFromDB {
     // Database credentials
     private static final String URL = "jdbc:mysql://localhost:3306/students";
     private static final String USER = "root";
-    private static final String PASSWORD = "vamforever2011";
+    private static final String PASSWORD = "EnterYourPass";
 
     public static void main(String[] args) {
 
